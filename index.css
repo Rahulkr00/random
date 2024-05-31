@@ -5,3 +5,8 @@ html{
 *{
     box-sizing: inherit;
 }
+
+
+p{
+    width:2em;
+}
